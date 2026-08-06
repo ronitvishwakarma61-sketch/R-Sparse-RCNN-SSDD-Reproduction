@@ -96,3 +96,4 @@ Cite us using the following BibTeX entries:
 ## Related Works
 **[[Sparse R-CNN OBB](https://github.com/ka-mirul/Sparse-R-CNN-OBB)]** – This model is an earlier version of R-Sparse R-CNN, featuring faster inference speed and a smaller model size. It was trained on the RSDD-SAR dataset.  
 Read more in our [arXiv paper](https://arxiv.org/abs/2409.07973).
+Minor README update.
