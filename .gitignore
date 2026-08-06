@@ -1,0 +1,47 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Datasets
+datasets/
+Official-SSDD-OPEN/
+*.zip
+
+# Model checkpoints
+*.pth
+*.pkl
+last_checkpoint
+
+# Training outputs
+output/
+output_fixed/
+inference/
+eval_*/
+RSparseRCNN_SSDD*/
+events.out.tfevents.*
+metrics.json
+log.txt
+training_log.txt
+
+# Build files
+build/
+dist/
+*.egg-info/
+build_log*.txt
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Windows
+Thumbs.db
+desktop.ini
